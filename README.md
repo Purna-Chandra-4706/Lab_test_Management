@@ -1,5 +1,7 @@
 # Lab Test Management System (Module H43)
 
+**[🚀 Click here to view the Live Demo](https://dbmsprojecth43-vhnrhkjy6vahmsybubetyn.streamlit.app/)**
+
 Developed by Sukrat Singh, Purna Chandra, and Kiran, under the mentorship of Prof. A.C.S. Rao.
 
 ## Overview
